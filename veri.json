@@ -1,0 +1,199 @@
+{
+    "kentler": [
+        {
+            "isim": "Aydın"
+        },
+        {
+            "isim": "Nazilli"
+        },
+        {
+            "isim": "Efeler"
+        },
+        {
+            "isim": "Bozdoğan"
+        },
+        {
+            "isim": "Kuşadası"
+        },
+        {
+            "isim": "İncirliova"
+        },
+        {
+            "isim": "Karacasu"
+        },
+        {
+            "isim": "Köşk"
+        },
+        {
+            "isim": "Kuyucak"
+        },
+        {
+            "isim": "Bursa"
+        },
+        {
+            "isim": "Nülifer"
+        },
+        {
+            "isim": "Osmangazi"
+        },
+        {
+            "isim": "Mudanya"
+        },
+        {
+            "isim": "Yıldırım"
+        },
+        {
+            "isim": "Gürsu"
+        },
+        {
+            "isim": "Kestel"
+        },
+        {
+            "isim": "Görükle"
+        },
+        {
+            "isim": "Mersin"
+        },
+        {
+            "isim": "Akdeniz"
+        },
+        {
+            "isim": "Mezidli"
+        },
+        {
+            "isim": "Toroslar"
+        },
+        {
+            "isim": "Yenişehir"
+        },
+        {
+            "isim": "Antalya"
+        },
+        {
+            "isim": "Muratpaşa"
+        },
+        {
+            "isim": "Kepez"
+        },
+        {
+            "isim": "Konyaaltı"
+        },
+        {
+            "isim": "Kemer"
+        },
+        {
+            "isim": "Erzurum"
+        },
+        {
+            "isim": "Palandöken"
+        },
+        {
+            "isim": "Aziziye"
+        },
+        {
+            "isim": "Yakutiye"
+        },
+        {
+            "isim": "Uzundere"
+        },
+        {
+            "isim": "Aşkale"
+        },
+        {
+            "isim": "Tortum"
+        },
+        {
+            "isim": "Pasinler"
+        }
+    ],
+
+    
+    "beyazesya": [
+        {
+            "isim": "Arçelik"
+        },
+        {
+            "isim": "Bosch"
+        },
+        {
+            "isim": "Siemens"
+        },
+        {
+            "isim": "Lg"
+        },
+        {
+            "isim": "Vestel"
+        },
+        {
+            "isim": "Beko"
+        },
+        {
+            "isim": "Altus"
+        },
+        {
+            "isim": "Samsung"
+        },
+        {
+            "isim": "Profilo"
+        },
+        {
+            "isim": "Hotpoint"
+        },
+        {
+            "isim": "İndesit"
+        },
+        {
+            "isim": "Ariston"
+        },
+        {
+            "isim": "Aeg"
+        },
+        {
+            "isim": "Teka"
+        },
+        {
+            "isim": "Regal"
+        }
+    ],
+    "tv": [
+        {
+            "isim": "Grundig"
+        },
+        {
+            "isim": "Sunny"
+        },
+        {
+            "isim": "Axen"
+        },
+        {
+            "isim": "Awox"
+        },
+        {
+            "isim": "Toshiba"
+        },
+        {
+            "isim": "Samsung"
+        },
+        {
+            "isim": "Arçelik"
+        },
+        {
+            "isim": "Altus"
+        },
+        {
+            "isim": "Profilo"
+        },
+        {
+            "isim": "Vestel"
+        },
+        {
+            "isim": "Regal"
+        },
+        {
+            "isim": "Lg"
+        },
+        {
+            "isim": "Beko"
+        }
+    ]
+}
